@@ -4,12 +4,14 @@ Alexis (Lexi) Walker
 February 6, 2018
 Assignment 1: Your Portfolio
 
-Identify what aspects of the work have been correctly implemented and what have not.
-
+# Implementation
+All aspects of this assignment have been correctly implemented to the best of
+my knowledge. All content for this assignment exists within this directory,
+in addition to some extraneous files unrelated to this class.
 
 # Acknowledgements
-Priya Misner: discussed together how to connect tufts cs website to GitHub
-site using "meta" tag
+Priya Misner: discussed how to connect our Tufts CS websites to our GitHub
+sites using "meta" tag
 
 Isabella Montoya: discussed "chmod" used for files on Tufts server
 
