@@ -1,22 +1,39 @@
 body {
     background-color: #EFF8F7;
     font-family: Georgia;
+    display: table-cell;
+    vertical-align: middle;
 }
+
+html {
+    display: table;
+    margin: auto;
+}
+
 
 H1 {
     font-family: Georgia;
 }
 
-a:link{
+#links {
+    padding-left: 45px;
+}
+
+
+a:link {
     text-decoration: none;
 }
 
-a:hover{
+a:hover {
     color: #CA9CCB;
 }
 
 img {
     border-radius: 25%;
+}
+
+ul {
+    padding-left: 100px;
 }
 
 a {
