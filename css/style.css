@@ -1,14 +1,24 @@
 body {
     background-color: #EFF8F7;
     font-family: Georgia;
-    font-size: 30;
 }
+
 H1 {
     font-family: Georgia;
 }
+
+a:link{
+    text-decoration: none;
+}
+
+a:hover{
+    color: gray;
+}
+
 img {
     border-radius: 25%;
 }
+
 a {
     color: #666666;
 }
