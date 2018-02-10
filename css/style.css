@@ -1,7 +1,6 @@
 body {
     background-color: #EFF8F7;
     font-family: Georgia;
-    display: table-cell;
     vertical-align: middle;
 }
 
@@ -34,6 +33,7 @@ img {
 
 ul {
     padding-left: 100px;
+    list-style-type: square;
 }
 
 a {
